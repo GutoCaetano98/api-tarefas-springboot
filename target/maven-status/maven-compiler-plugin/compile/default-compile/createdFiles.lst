@@ -1,0 +1,4 @@
+com\example\apitarefa\ApiTarefaApplication.class
+com\example\apitarefa\repository\TarefaRepository.class
+com\example\apitarefa\TarefaController.class
+com\example\apitarefa\model\Tarefa.class
